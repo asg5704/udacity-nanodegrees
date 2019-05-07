@@ -7,7 +7,7 @@ In this Nanodegree program, you'll learn how to build and manage relational data
 
 | Completed | Title | Link |
 |---|---|---|
-| [ ] | Shell Workshop | https://www.udacity.com/course/shell-workshop--ud206 |
+| X | Shell Workshop | https://www.udacity.com/course/shell-workshop--ud206 |
 | [ ] | Git & GitHub, Part 1 | https://www.udacity.com/course/how-to-use-git-and-github--ud775 |
 | [ ] | Git & GitHub, Part 2 | https://www.udacity.com/course/github-collaboration--ud456 |
 | [ ] | HTTP & Webservers | https://www.udacity.com/course/http-web-servers--ud303 |
